@@ -1,7 +1,7 @@
 # End-to-End Data Warehouse & Analytics Project
 
 Welcome to my **End-to-End Data Warehouse and Analytics Project** 🚀  
-This repository demonstrates a complete data engineering workflow — from raw data ingestion to analytics-ready reporting — following modern, industry-aligned best practices.
+This repository demonstrates a complete data engineering workflow - from raw data ingestion to analytics-ready reporting - following modern, industry-aligned best practices.
 
 This project is built as a **hands-on learning and portfolio project** to showcase practical data warehousing concepts, ETL design, and analytical data modeling.
 
