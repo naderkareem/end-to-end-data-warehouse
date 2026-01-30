@@ -106,7 +106,7 @@ Build a modern data warehouse to consolidate sales-related data and support anal
 ---
 
 ## 📁 Repository Structure
-
+```
 end-to-end-data-warehouse/
 │
 ├── datasets/ # Raw source data (ERP and CRM CSV files)
@@ -128,6 +128,8 @@ end-to-end-data-warehouse/
 │
 ├── README.md # Project overview
 ├── .gitignore # Git ignored files
+```
+---
 
 ▶️ How to Run This Project (Step-by-Step)
 
